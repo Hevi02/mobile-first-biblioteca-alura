@@ -39,7 +39,7 @@ h1 {
     font-weight: 700;
 }
 
-.lista-menu-link{
+.lista-menu_link{
     background: var(--roxo);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
